@@ -1,5 +1,5 @@
 ---
-title: Qué hago ahora
+title: Qué estoy haciendo
 ---
 Las páginas «Ahora» como esta, son más estables que el feed de Twitter (o como se llame) y menos permanentes que la página de [[about|Sobre mí]]. Actualizaciones de mi vida, con cadencia mensual en vez de diaria u horaria.
 
@@ -10,8 +10,6 @@ Actualizado a 28 de diciembre de 2023 desde mi casa en Santarém, Portugal.
 Hace unas semanas me dio por repasar la cantidad de twitts que había escrito desde que abrí allí mi cuenta... demasiados. Pero sobre todo me percaté de que le estaba regalando esa información a una plataforma de terceros que poco (o más bien nada) me iba a devolver por ella.
 
 Mi intención es concentrar aquí mis creaciones siguiendo la filosofía que se empieza a ver por internet.
-
-Alojada en GitHub.
 
 # Sacándome el carné de conducir portugués
 
