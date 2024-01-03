@@ -3,7 +3,8 @@ title: Qué hago ahora
 ---
 Las páginas «Ahora» como esta, son más estables que el feed de Twitter (o como se llame) y menos permanentes que la página de [[about|Sobre mí]]. Actualizaciones de mi vida, con cadencia mensual en vez de diaria u horaria.
 
-> Actualizado a fecha del título desde mi casa en Santarém, Portugal.
+> [!info] Última actualización
+> 3 de enero de 2024 desde mi casa en Santarém, Portugal.
 
 # Creando la web
 
