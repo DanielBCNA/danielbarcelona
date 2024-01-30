@@ -1,6 +1,7 @@
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/backlinks.scss"
 import { resolveRelative, simplifySlug } from "../util/path"
+import { classNames } from "../util/lang"
 
 function Backlinks({ fileData, allFiles, displayClass }: QuartzComponentProps) {
   const slug = simplifySlug(fileData.slug!)
